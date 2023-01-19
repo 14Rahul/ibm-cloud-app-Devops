@@ -1,0 +1,6 @@
+[
+    {
+    "cve": "SNYK-JAVA-ORGSPRINGFRAMEWORK-2689634",
+    "alwaysOmit": true
+    }
+]
