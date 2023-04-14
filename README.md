@@ -1,22 +1,4 @@
-<p align="center">
-    <a href="https://cloud.ibm.com">
-        <img src="https://cloud.ibm.com/media/docs/developer-appservice/resources/ibm-cloud.svg" height="100" alt="IBM Cloud">
-    </a>
-</p>
-
-
-<p align="center">
-    <a href="https://cloud.ibm.com">
-    <img src="https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg" alt="IBM Cloud">
-    </a>
-    <a href="https://www.ibm.com/developerworks/learn/java/">
-    <img src="https://img.shields.io/badge/platform-java-lightgrey.svg?style=flat" alt="platform">
-    </a>
-    <img src="https://img.shields.io/badge/license-Apache2-blue.svg?style=flat" alt="Apache 2">
-</p>
-
-
-# Create and deploy a basic Java Spring application
+# Create and deploy a basic Java Spring application for IBM Devops Toolchain
 
 In this sample application, you will create a basic Java cloud application using Spring. This provides a good starting point for creating Java microservice applications running on [Spring](https://spring.io/). It contains no default application code, but comes with standard best practices, including a health check.
 
